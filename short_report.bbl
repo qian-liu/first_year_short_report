@@ -1,0 +1,180 @@
+\begin{thebibliography}{10}
+
+\bibitem{wysoski2008fast}
+S.~G. Wysoski, L.~Benuskova, and N.~Kasabov, ``Fast and adaptive network of
+  spiking neurons for multi-view visual pattern recognition,'' {\em
+  Neurocomputing}, vol.~71, no.~13, pp.~2563--2575, 2008.
+
+\bibitem{canny1986computational}
+J.~Canny, ``A computational approach to edge detection,'' {\em Pattern Analysis
+  and Machine Intelligence, IEEE Transactions on}, no.~6, pp.~679--698, 1986.
+
+\bibitem{toygar2004multiple}
+{\"O}.~Toygar and A.~Acan, ``Multiple classifier implementation of a
+  divide-and-conquer approach using appearance-based statistical methods for
+  face recognition,'' {\em Pattern Recognition Letters}, vol.~25, no.~12,
+  pp.~1421--1430, 2004.
+
+\bibitem{wei2006robust}
+S.-D. Wei and S.-H. Lai, ``Robust and efficient image alignment based on
+  relative gradient matching,'' {\em Image Processing, IEEE Transactions on},
+  vol.~15, no.~10, pp.~2936--2943, 2006.
+
+\bibitem{lowe2004distinctive}
+D.~G. Lowe, ``Distinctive image features from scale-invariant keypoints,'' {\em
+  International journal of computer vision}, vol.~60, no.~2, pp.~91--110, 2004.
+
+\bibitem{bay2008speeded}
+H.~Bay, A.~Ess, T.~Tuytelaars, and L.~Van~Gool, ``{Speeded-up robust features
+  (SURF)},'' {\em Computer vision and image understanding}, vol.~110, no.~3,
+  pp.~346--359, 2008.
+
+\bibitem{riesenhuber1999hierarchical}
+M.~Riesenhuber and T.~Poggio, ``Hierarchical models of object recognition in
+  cortex,'' {\em Nature neuroscience}, vol.~2, no.~11, pp.~1019--1025, 1999.
+
+\bibitem{dicarlo2012does}
+J.~J. DiCarlo, D.~Zoccolan, and N.~C. Rust, ``How does the brain solve visual
+  object recognition?,'' {\em Neuron}, vol.~73, no.~3, pp.~415--434, 2012.
+
+\bibitem{fabre1998rapid}
+M.~Fabre-Thorpe, G.~Richard, and S.~J. Thorpe, ``Rapid categorization of
+  natural images by rhesus monkeys,'' {\em Neuroreport}, vol.~9, no.~2,
+  pp.~303--308, 1998.
+
+\bibitem{keysers2001speed}
+C.~Keysers, D.-K. Xiao, P.~F{\"o}ldi{\'a}k, and D.~Perrett, ``The speed of
+  sight,'' {\em Journal of cognitive neuroscience}, vol.~13, no.~1,
+  pp.~90--101, 2001.
+
+\bibitem{dicarlo2007untangling}
+J.~J. DiCarlo and D.~D. Cox, ``Untangling invariant object recognition,'' {\em
+  Trends in cognitive sciences}, vol.~11, no.~8, pp.~333--341, 2007.
+
+\bibitem{lenero20113}
+J.~A. Le{\~n}ero-Bardallo, T.~Serrano-Gotarredona, and B.~Linares-Barranco, ``A
+  3.6 s latency asynchronous frame-free event-driven dynamic-vision-sensor,''
+  {\em Solid-State Circuits, IEEE Journal of}, vol.~46, no.~6, pp.~1443--1455,
+  2011.
+
+\bibitem{furber2014spinnaker}
+S.~B. Furber, F.~Galluppi, S.~Temple, and L.~A. Plana, ``{The SpiNNaker
+  Project},'' 2014.
+
+\bibitem{felleman1991distributed}
+D.~J. Felleman and D.~C. Van~Essen, ``Distributed hierarchical processing in
+  the primate cerebral cortex,'' {\em Cerebral cortex}, vol.~1, no.~1,
+  pp.~1--47, 1991.
+
+\bibitem{hubel1959receptive}
+D.~H. Hubel and T.~N. Wiesel, ``Receptive fields of single neurones in the
+  cat's striate cortex,'' {\em The Journal of physiology}, vol.~148, no.~3,
+  p.~574, 1959.
+
+\bibitem{anzai2007neurons}
+A.~Anzai, X.~Peng, and D.~C. Van~Essen, ``Neurons in monkey visual area v2
+  encode combinations of orientations,'' {\em Nature neuroscience}, vol.~10,
+  no.~10, pp.~1313--1321, 2007.
+
+\bibitem{daniel2009whither}
+Y.~Daniel, M.~Zarella, and G.~Burkitt, ``Whither the hypercolumn?,'' {\em The
+  Journal of physiology}, vol.~587, no.~12, pp.~2791--2805, 2009.
+
+\bibitem{qiu2005figure}
+F.~T. Qiu and R.~Von Der~Heydt, ``Figure and ground in the visual cortex: V2
+  combines stereoscopic cues with gestalt rules,'' {\em Neuron}, vol.~47,
+  no.~1, pp.~155--166, 2005.
+
+\bibitem{dean1976effects}
+P.~Dean, ``Effects of inferotemporal lesions on the behavior of monkeys.,''
+  {\em Psychological bulletin}, vol.~83, no.~1, p.~41, 1976.
+
+\bibitem{tanaka1991coding}
+K.~Tanaka, H.-a. Saito, Y.~Fukada, and M.~Moriya, ``Coding visual images of
+  objects in the inferotemporal cortex of the macaque monkey,'' {\em J
+  Neurophysiol}, vol.~66, no.~1, pp.~170--189, 1991.
+
+\bibitem{gross2008single}
+C.~G. Gross, ``Single neuron studies of inferior temporal cortex,'' {\em
+  Neuropsychologia}, vol.~46, no.~3, pp.~841--852, 2008.
+
+\bibitem{schwartz1983shape}
+E.~L. Schwartz, R.~Desimone, T.~D. Albright, and C.~G. Gross, ``Shape
+  recognition and inferior temporal neurons,'' {\em Proceedings of the National
+  Academy of Sciences}, vol.~80, no.~18, pp.~5776--5778, 1983.
+
+\bibitem{sary1993cue}
+G.~Sary, R.~Vogels, and G.~A. Orban, ``Cue-invariant shape selectivity of
+  macaque inferior temporal neurons,'' {\em Science}, vol.~260, no.~5110,
+  pp.~995--997, 1993.
+
+\bibitem{zoccolan2007trade}
+D.~Zoccolan, M.~Kouh, T.~Poggio, and J.~J. DiCarlo, ``Trade-off between object
+  selectivity and tolerance in monkey inferotemporal cortex,'' {\em The Journal
+  of Neuroscience}, vol.~27, no.~45, pp.~12292--12307, 2007.
+
+\bibitem{desimone1984stimulus}
+R.~Desimone, T.~D. Albright, C.~G. Gross, and C.~Bruce, ``Stimulus-selective
+  properties of inferior temporal neurons in the macaque,'' {\em The Journal of
+  Neuroscience}, vol.~4, no.~8, pp.~2051--2062, 1984.
+
+\bibitem{hung2005fast}
+C.~P. Hung, G.~Kreiman, T.~Poggio, and J.~J. DiCarlo, ``Fast readout of object
+  identity from macaque inferior temporal cortex,'' {\em Science}, vol.~310,
+  no.~5749, pp.~863--866, 2005.
+
+\bibitem{majaj2012unified}
+N.~Majaj, H.~Najib, E.~Solomon, and J.~DiCarlo, ``A unified neuronal population
+  code fully explains human object recognition,'' {\em Computational and
+  Systems Neuroscience (COSYNE)}, 2012.
+
+\bibitem{brincat2006dynamic}
+S.~L. Brincat and C.~E. Connor, ``Dynamic shape synthesis in posterior
+  inferotemporal cortex,'' {\em Neuron}, vol.~49, no.~1, pp.~17--24, 2006.
+
+\bibitem{delbruck2008frame}
+T.~Delbruck, ``Frame-free dynamic digital vision,'' in {\em Proceedings of
+  Intl. Symp. on Secure-Life Electronics, Advanced Electronics for Quality Life
+  and Society}, pp.~21--26, 2008.
+
+\bibitem{6252490}
+C.~Patterson, F.~Galluppi, A.~Rast, and S.~Furber, ``Visualising large-scale
+  neural network models in real-time,'' in {\em Neural Networks (IJCNN), The
+  2012 International Joint Conference on}, pp.~1--8, 2012.
+
+\bibitem{galluppi2012real}
+F.~Galluppi, K.~Brohan, S.~Davidson, T.~Serrano-Gotarredona, J.-A.~P. Carrasco,
+  B.~Linares-Barranco, and S.~Furber, ``A real-time, event-driven neuromorphic
+  system for goal-directed attentional selection,'' in {\em Neural Information
+  Processing}, pp.~226--233, Springer, 2012.
+
+\bibitem{lazzaro1995multi}
+J.~Lazzaro and J.~Wawrzynek, ``A multi-sender asynchronous extension to the aer
+  protocol,'' in {\em Advanced Research in VLSI, Conference on}, pp.~158--158,
+  IEEE Computer Society, 1995.
+
+\bibitem{lecun1998gradient}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner, ``Gradient-based learning
+  applied to document recognition,'' {\em Proceedings of the IEEE}, vol.~86,
+  no.~11, pp.~2278--2324, 1998.
+
+\bibitem{la2008response}
+G.~La~Camera, M.~Giugliano, W.~Senn, and S.~Fusi, ``The response of cortical
+  neurons to in vivo-like input current: theory and experiment,'' {\em
+  Biological cybernetics}, vol.~99, no.~4-5, pp.~279--301, 2008.
+
+\bibitem{burkitt2006review}
+A.~N. Burkitt, ``A review of the integrate-and-fire neuron model: I.
+  homogeneous synaptic input,'' {\em Biological cybernetics}, vol.~95, no.~1,
+  pp.~1--19, 2006.
+
+\bibitem{siegert1951first}
+A.~J. Siegert, ``On the first passage time probability problem,'' {\em Physical
+  Review}, vol.~81, no.~4, p.~617, 1951.
+
+\bibitem{hegde2004temporal}
+J.~Hegd{\'e} and D.~C. Van~Essen, ``Temporal dynamics of shape analysis in
+  macaque visual area v2,'' {\em Journal of neurophysiology}, vol.~92, no.~5,
+  pp.~3030--3042, 2004.
+
+\end{thebibliography}
