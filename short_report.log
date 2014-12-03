@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.6)  3 DEC 2014 20:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.6)  3 DEC 2014 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,16 +371,16 @@ Underfull \hbox (badness 2460) in paragraph at lines 82--85
 []\OT1/ptm/m/n/10 Exploring and mim-ick-ing in-vari-ant ob-ject recog-ni-tion
  []
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-<pics/ventral.jpg, id=8, 419.54973pt x 208.49576pt>
+<pics/ventral.jpg, id=1, 419.54973pt x 208.49576pt>
 File: pics/ventral.jpg Graphic file (type jpg)
  <use pics/ventral.jpg>
 Package pdftex.def Info: pics/ventral.jpg used on input line 114.
 (pdftex.def)             Requested size: 247.6778pt x 123.0814pt.
 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
 <pics/IT.jpg, id=9, 491.18018pt x 409.31682pt>
 File: pics/IT.jpg Graphic file (type jpg)
  <use pics/IT.jpg>
@@ -431,20 +431,16 @@ Package pdftex.def Info: pics/outline2.pdf used on input line 243.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./pics/outline.pdf> <./pics/outline2.pdf
-
-pdfTeX warning: pdflatex (file ./pics/outline2.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
->] <pics/model1.pdf, id=40, 392.46625pt x 84.315pt>
+<pics/model1.pdf, id=16, 392.46625pt x 84.315pt>
 File: pics/model1.pdf Graphic file (type pdf)
  <use pics/model1.pdf>
 Package pdftex.def Info: pics/model1.pdf used on input line 278.
 (pdftex.def)             Requested size: 247.6778pt x 53.21005pt.
+ [3 <./pics/outline.pdf> <./pics/outline2.pdf
 
-<pics/gesture.pdf, id=41, 498.86375pt x 100.375pt>
+pdfTeX warning: pdflatex (file ./pics/outline2.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+>] <pics/gesture.pdf, id=41, 498.86375pt x 100.375pt>
 File: pics/gesture.pdf Graphic file (type pdf)
  <use pics/gesture.pdf>
 Package pdftex.def Info: pics/gesture.pdf used on input line 299.
@@ -460,7 +456,10 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 313--317
  [][] 
  []
 
-[4 <./pics/model1.pdf> <./pics/gesture.pdf> <./pics/model2.pdf
+
+Underfull \vbox (badness 4621) has occurred while \output is active []
+
+ [4 <./pics/model1.pdf> <./pics/gesture.pdf> <./pics/model2.pdf
 
 pdfTeX warning: pdflatex (file ./pics/model2.pdf): PDF inclusion: multiple pdfs
  with page group included in a single page
@@ -522,34 +521,28 @@ Underfull \hbox (badness 2393) in paragraph at lines 489--489
 \OT1/ptm/m/n/10 transformation-invariant ob-ject recog-ni-tion sys-tem. Three
  []
 
+[5 <./pics/rateSpiNN.pdf> <./pics/figure_r.png> <./pics/figure_1.png> <./pics/f
+igure_2.png> <./pics/figure_3.png> <./pics/figure_4.png> <./pics/figure_5.png> 
+<./pics/stages.pdf
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
+pdfTeX warning: pdflatex (file ./pics/stages.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
 Underfull \hbox (badness 4366) in paragraph at lines 497--498
 []\OT1/ptm/m/n/10 Year 2.5. in-te-grat-ing position-, scale- and view-
  []
 
-[5 <./pics/rateSpiNN.pdf> <./pics/figure_r.png> <./pics/figure_1.png> <./pics/f
-igure_2.png> <./pics/figure_3.png> <./pics/figure_4.png> <./pics/figure_5.png>]
-<pics/gantt.pdf, id=230, 657.45625pt x 556.0775pt>
+<pics/gantt.pdf, id=247, 657.45625pt x 556.0775pt>
 File: pics/gantt.pdf Graphic file (type pdf)
  <use pics/gantt.pdf>
 Package pdftex.def Info: pics/gantt.pdf used on input line 514.
 (pdftex.def)             Requested size: 247.6778pt x 209.47887pt.
 
-Underfull \vbox (badness 2865) has occurred while \output is active []
-
-
 Underfull \hbox (badness 1859) in paragraph at lines 543--545
 []\OT1/ptm/m/n/10 The mile-stones set for the di-men-sion of num-ber of
  []
 
-[6 <./pics/stages.pdf> <./pics/gantt.pdf
-
-pdfTeX warning: pdflatex (file ./pics/gantt.pdf): PDF inclusion: multiple pdfs 
-with page group included in a single page
->] (./short_report.bbl) [7] (./short_report.aux) ) 
+[6 <./pics/gantt.pdf>] (./short_report.bbl) [7] (./short_report.aux) ) 
 Here is how much of TeX's memory you used:
  4419 strings out of 495028
  68975 string characters out of 6181497
@@ -558,16 +551,16 @@ Here is how much of TeX's memory you used:
  50707 words of font info for 97 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
  42i,12n,40p,505b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dis
-t/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on short_report.pdf (7 pages, 1128883 bytes).
+{/usr/sha
+re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/
+usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on short_report.pdf (7 pages, 1128751 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  174 compressed objects within 2 object streams
