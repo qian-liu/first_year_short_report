@@ -1,38 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{wysoski2008fast}
-S.~G. Wysoski, L.~Benuskova, and N.~Kasabov, ``Fast and adaptive network of
-  spiking neurons for multi-view visual pattern recognition,'' {\em
-  Neurocomputing}, vol.~71, no.~13, pp.~2563--2575, 2008.
-
-\bibitem{canny1986computational}
-J.~Canny, ``A computational approach to edge detection,'' {\em Pattern Analysis
-  and Machine Intelligence, IEEE Transactions on}, no.~6, pp.~679--698, 1986.
-
-\bibitem{toygar2004multiple}
-{\"O}.~Toygar and A.~Acan, ``Multiple classifier implementation of a
-  divide-and-conquer approach using appearance-based statistical methods for
-  face recognition,'' {\em Pattern Recognition Letters}, vol.~25, no.~12,
-  pp.~1421--1430, 2004.
-
-\bibitem{wei2006robust}
-S.-D. Wei and S.-H. Lai, ``Robust and efficient image alignment based on
-  relative gradient matching,'' {\em Image Processing, IEEE Transactions on},
-  vol.~15, no.~10, pp.~2936--2943, 2006.
-
-\bibitem{lowe2004distinctive}
-D.~G. Lowe, ``Distinctive image features from scale-invariant keypoints,'' {\em
-  International journal of computer vision}, vol.~60, no.~2, pp.~91--110, 2004.
-
-\bibitem{bay2008speeded}
-H.~Bay, A.~Ess, T.~Tuytelaars, and L.~Van~Gool, ``{Speeded-up robust features
-  (SURF)},'' {\em Computer vision and image understanding}, vol.~110, no.~3,
-  pp.~346--359, 2008.
-
-\bibitem{riesenhuber1999hierarchical}
-M.~Riesenhuber and T.~Poggio, ``Hierarchical models of object recognition in
-  cortex,'' {\em Nature neuroscience}, vol.~2, no.~11, pp.~1019--1025, 1999.
-
 \bibitem{dicarlo2012does}
 J.~J. DiCarlo, D.~Zoccolan, and N.~C. Rust, ``How does the brain solve visual
   object recognition?,'' {\em Neuron}, vol.~73, no.~3, pp.~415--434, 2012.
@@ -60,11 +27,6 @@ J.~A. Le{\~n}ero-Bardallo, T.~Serrano-Gotarredona, and B.~Linares-Barranco, ``A
 \bibitem{furber2014spinnaker}
 S.~B. Furber, F.~Galluppi, S.~Temple, and L.~A. Plana, ``{The SpiNNaker
   Project},'' 2014.
-
-\bibitem{felleman1991distributed}
-D.~J. Felleman and D.~C. Van~Essen, ``Distributed hierarchical processing in
-  the primate cerebral cortex,'' {\em Cerebral cortex}, vol.~1, no.~1,
-  pp.~1--47, 1991.
 
 \bibitem{hubel1959receptive}
 D.~H. Hubel and T.~N. Wiesel, ``Receptive fields of single neurones in the
@@ -108,29 +70,15 @@ G.~Sary, R.~Vogels, and G.~A. Orban, ``Cue-invariant shape selectivity of
   macaque inferior temporal neurons,'' {\em Science}, vol.~260, no.~5110,
   pp.~995--997, 1993.
 
-\bibitem{zoccolan2007trade}
-D.~Zoccolan, M.~Kouh, T.~Poggio, and J.~J. DiCarlo, ``Trade-off between object
-  selectivity and tolerance in monkey inferotemporal cortex,'' {\em The Journal
-  of Neuroscience}, vol.~27, no.~45, pp.~12292--12307, 2007.
-
 \bibitem{desimone1984stimulus}
 R.~Desimone, T.~D. Albright, C.~G. Gross, and C.~Bruce, ``Stimulus-selective
   properties of inferior temporal neurons in the macaque,'' {\em The Journal of
   Neuroscience}, vol.~4, no.~8, pp.~2051--2062, 1984.
 
-\bibitem{hung2005fast}
-C.~P. Hung, G.~Kreiman, T.~Poggio, and J.~J. DiCarlo, ``Fast readout of object
-  identity from macaque inferior temporal cortex,'' {\em Science}, vol.~310,
-  no.~5749, pp.~863--866, 2005.
-
 \bibitem{majaj2012unified}
 N.~Majaj, H.~Najib, E.~Solomon, and J.~DiCarlo, ``A unified neuronal population
   code fully explains human object recognition,'' {\em Computational and
   Systems Neuroscience (COSYNE)}, 2012.
-
-\bibitem{brincat2006dynamic}
-S.~L. Brincat and C.~E. Connor, ``Dynamic shape synthesis in posterior
-  inferotemporal cortex,'' {\em Neuron}, vol.~49, no.~1, pp.~17--24, 2006.
 
 \bibitem{delbruck2008frame}
 T.~Delbruck, ``Frame-free dynamic digital vision,'' in {\em Proceedings of
@@ -148,15 +96,14 @@ F.~Galluppi, K.~Brohan, S.~Davidson, T.~Serrano-Gotarredona, J.-A.~P. Carrasco,
   system for goal-directed attentional selection,'' in {\em Neural Information
   Processing}, pp.~226--233, Springer, 2012.
 
-\bibitem{lazzaro1995multi}
-J.~Lazzaro and J.~Wawrzynek, ``A multi-sender asynchronous extension to the aer
-  protocol,'' in {\em Advanced Research in VLSI, Conference on}, pp.~158--158,
-  IEEE Computer Society, 1995.
-
 \bibitem{lecun1998gradient}
 Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner, ``Gradient-based learning
   applied to document recognition,'' {\em Proceedings of the IEEE}, vol.~86,
   no.~11, pp.~2278--2324, 1998.
+
+\bibitem{moran1985selective}
+J.~Moran and R.~Desimone, ``Selective attention gates visual processing in the
+  extrastriate cortex,'' {\em Science}, vol.~229, no.~4715, pp.~782--784, 1985.
 
 \bibitem{la2008response}
 G.~La~Camera, M.~Giugliano, W.~Senn, and S.~Fusi, ``The response of cortical
@@ -176,5 +123,10 @@ A.~J. Siegert, ``On the first passage time probability problem,'' {\em Physical
 J.~Hegd{\'e} and D.~C. Van~Essen, ``Temporal dynamics of shape analysis in
   macaque visual area v2,'' {\em Journal of neurophysiology}, vol.~92, no.~5,
   pp.~3030--3042, 2004.
+
+\bibitem{zoccolan2007trade}
+D.~Zoccolan, M.~Kouh, T.~Poggio, and J.~J. DiCarlo, ``Trade-off between object
+  selectivity and tolerance in monkey inferotemporal cortex,'' {\em The Journal
+  of Neuroscience}, vol.~27, no.~45, pp.~12292--12307, 2007.
 
 \end{thebibliography}
